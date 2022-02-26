@@ -1,4 +1,4 @@
-# General
+# MUV Tech Template
 ![Preview](/template-preview.png "Preview Image")
 
 This is a Template Project for quickly create Apps. It is a Mono Repo:
