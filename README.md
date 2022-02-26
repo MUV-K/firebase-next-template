@@ -1,4 +1,5 @@
 # General
+
 This is a Template Project for quickly create Apps. It is a Mono Repo:
 
 - The Frontend is Nextjs
