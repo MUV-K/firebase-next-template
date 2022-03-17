@@ -28,6 +28,11 @@ Base Project:
 1. Run `npm install` in the `/app` folder and `/functions` folder
 1. You are ready to MUV 
 
+# Firebase Learnings
+
+Store secrets as environment variables:
+- Use `functions:secrets:set` instead of the Google Secret Manager
+
 
 # Help
 Contact hoi@muv-k.ch if you have any questions 
